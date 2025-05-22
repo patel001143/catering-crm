@@ -1,0 +1,6 @@
+{
+  "name": "shawarma/catering-crm",
+  "require": {
+    "laravel/framework": "^10.0"
+  }
+}
